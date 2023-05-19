@@ -1,24 +1,4 @@
 # InstaDpDownload
-<style>
-    p {
-        margin-bottom: 1.5em;
-    }
-
-    strong {
-        font-weight: bold;
-    }
-
-    a {
-        color: #0366d6;
-        text-decoration: none;
-    }
-
-    a:hover {
-        text-decoration: underline;
-    }
-</style>
-
-
 <p>
     <strong>Private Profile Access:</strong> Our system leverages authorized user credentials to securely access private Instagram profiles and retrieve the profile picture. By utilizing appropriate API calls, the system ensures compliance with Instagram's policies and guidelines.
 </p>

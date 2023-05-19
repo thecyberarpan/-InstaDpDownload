@@ -1,4 +1,22 @@
 # InstaDpDownload
+<style>
+    p {
+        margin-bottom: 1.5em;
+    }
+
+    strong {
+        font-weight: bold;
+    }
+
+    a {
+        color: #0366d6;
+        text-decoration: none;
+    }
+
+    a:hover {
+        text-decoration: underline;
+    }
+</style>
 
 
 <p>
